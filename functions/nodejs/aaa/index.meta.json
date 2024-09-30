@@ -1,0 +1,16 @@
+{
+  "apiID": "package_596371__c__function_aadg7dga5pway",
+  "apiName": "aaa",
+  "label": {
+    "zh_CN": "aaa",
+    "en_US": ""
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": true,
+  "input": [],
+  "output": []
+}
