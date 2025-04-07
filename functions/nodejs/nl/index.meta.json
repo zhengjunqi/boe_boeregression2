@@ -1,0 +1,16 @@
+{
+  "apiID": "package_11b07c__c__function_aadh6ocdrpucy",
+  "apiName": "nl",
+  "label": {
+    "zh_CN": "nl",
+    "en_US": "nl"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": true,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}

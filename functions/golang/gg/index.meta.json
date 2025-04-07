@@ -1,0 +1,16 @@
+{
+  "apiID": "package_11b07c__c__function_aadh6n27624cw",
+  "apiName": "gg",
+  "label": {
+    "zh_CN": "gg",
+    "en_US": "gg"
+  },
+  "description": {
+    "zh_CN": "自定义函数",
+    "en_US": "Custom Function"
+  },
+  "longTaskMode": false,
+  "frontendSDKInvokable": false,
+  "input": [],
+  "output": []
+}
